@@ -21,8 +21,9 @@
 </p>
 
 ---
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left">
+
+### 🤖 Linguagens e Tecnologias
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/> <!-- GCP -->
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
@@ -38,13 +39,24 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohgabrieldias&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ohgabrieldias&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
-
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ohgabrieldias&limit=5&theme=flat&combine_all_yearly_contributions=true)
+### 📊 Estatísticas
 
----
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=ohgabrieldias&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohgabrieldias&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
